@@ -15,4 +15,4 @@ print(res)
 res = val1 ** val2
 print(res)
 1
-1
+2
